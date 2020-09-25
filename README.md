@@ -1,8 +1,8 @@
 # samNUTES
 
-Aplicação feita para contribuir no combate a COVID-19, tem uso indicado para atendentes do SAMU. O app foi desenvolvido baseado em estudos da "Royal College of Physicians" e realiza uma avaliação pré-hospitalar de pacientes com suspeição da doença. 
+> Aplicação feita para contribuir no combate a COVID-19, tem uso indicado para atendentes do SAMU. O app foi desenvolvido baseado em estudos da "Royal College of Physicians" e realiza uma avaliação pré-hospitalar de pacientes com suspeição da doença. 
 
-O [estudo](https://www.rcplondon.ac.uk/projects/outputs/national-early-warning-score-news-2) realiza cálculos baseados em informações como temperatura, pressão arterial, frequencia cardíaca, nível de oxigênio periférico, etc. Após o cálculo é gerado uma avaliação pré-hospitalar com sugestões de ações que devem ser tomadas para aquele paciente.
+O [estudo](https://www.rcplondon.ac.uk/projects/outputs/national-early-warning-score-news-2) realiza cálculos baseados em informações como **temperatura, pressão arterial, frequencia cardíaca, nível de oxigênio periférico, etc**. Após o cálculo é gerado uma avaliação pré-hospitalar com sugestões de ações que devem ser tomadas para aquele paciente.
 
 OBS: Foi meu primeiro app desenvolvido em flutter.
 

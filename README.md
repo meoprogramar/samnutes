@@ -6,7 +6,7 @@ O [estudo](https://www.rcplondon.ac.uk/projects/outputs/national-early-warning-s
 
 OBS: Foi meu primeiro app desenvolvido em flutter.
 
-_Algumas telas do sistema_
+_Algumas telas do sistema:_
 
 ![inicial](https://user-images.githubusercontent.com/34866806/94290778-0aece880-ff31-11ea-80f8-010df7818934.jpeg)
 ![marcar](https://user-images.githubusercontent.com/34866806/94290810-13ddba00-ff31-11ea-9693-26d67596a41d.jpeg)
